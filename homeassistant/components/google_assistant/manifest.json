@@ -5,5 +5,6 @@
   "codeowners": ["@home-assistant/cloud"],
   "dependencies": ["http"],
   "documentation": "https://www.home-assistant.io/integrations/google_assistant",
-  "iot_class": "cloud_push"
+  "iot_class": "cloud_push",
+  "version": "0.0.1"
 }

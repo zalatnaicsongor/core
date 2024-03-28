@@ -281,7 +281,7 @@ async def handle_devices_execute(
         final_results.append(
             {
                 "ids": [entity.entity_id],
-                "status": "SUCCESS",
+                "status": "PENDING",
                 "states": entity.query_serialize(),
             }
         )
